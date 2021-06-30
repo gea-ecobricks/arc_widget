@@ -1,0 +1,52 @@
+headerTitle: >-
+  {publisherName} gets a boost from Arc
+headerSubtitle: >-
+  Arc is a content exchange and delivery network.
+speedValue:
+  title: >-
+    {publisherName} is faster with Arc.
+  desc: >-
+    Arc loads content from people's devices near you instead of from
+    slower servers.
+  adblockDesc: >-
+    With Arc, content is loaded from people's devices near you instead
+    of from slower servers.
+moneyValue:
+  title: >-
+    Arc lets websites make money without ads.
+  desc: >-
+    Just by being here, you help share this site's content with others to
+    support it and see fewer ads.
+  adblockDesc: >-
+    With Arc, you help share this site's content with others to support
+    it.
+safetyValue:
+  title: >-
+    You're safe and in control.
+  desc: >-
+    Arc doesn't impact your data or performance, and you can opt out any
+    time.
+  adblockDesc: >-
+    Arc only shares content on Wi-Fi and doesn't impact your data or
+    performance. You can disable it any time.
+getArc: Get Arc
+learnMore: Learn more
+optOut: Opt out
+optIn: Opt in to Arc
+welcomeToArc: Welcome to Arc
+optOutConfirmation: You're now opted out 😢
+enableArc: Enable Arc and support {publisherName}
+arcGoal: >-
+  At Arc, we endeavor to replace online ads. We want to improve your experience
+  online and preserve your privacy. You can read more about how Arc does this
+here: here
+optInLeadInMessage: >-
+  You previously elected to opt out of Arc. If you'd like to see fewer ads and
+  support your favorite websites, you can opt back into Arc below. You can, of
+  course, always elect to opt back out of Arc later.
+optOutLeadInMessage: >-
+  If you elect to opt out of Arc, websites may show you more ads to recoup lost
+  revenue. Of course, should you elect to opt out of Arc now, you can always elect
+  to opt back in later.
+thisWebsite: this website
+thisWebsiteCaps: This website
