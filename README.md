@@ -1,10 +1,9 @@
-<h1>Global Ecobrick Alliance Arc Widget Text</h1>
+<h1>Global Ecobrick Alliance Custom Arc Widget</h1>
 
-Here's where we can directly edit the text that Arc's widget displays when it loads on our site-- and soon other sites</h2>
-
+The Global Ecobrick Alliance is working with Arc.io to combine technologies.  By merging their decentalized CDN with our Brikcoin blockchain, we'll be able to offer enterprises the ability to provide an ecological and internet service through their website.
 <h2>Goal</h2>
-<p>1. To clearly and succintly explain how Arc is being used to directly support the removal of plastic from the biosphere.  </p>
- <p>2. To provide learning opportunities to those reading about our joint technolgoies of decentralized CDN and decentralized plastic sequestration for the first time.</p>
-<p> 3. To inspire people to follo through to our Learn More page</p>
-<p> 4.  To keep our language as simple and accessible as possible.</p>
+<p>1. To clearly and succintly explain how plastic is being offset by the using of the Arc CDN.</p>
+ <p>2. To provide links to learn more about Arc and AES Plastic</p>
+<p> 3. To inspire people to follow through and consider registering for Arc or GoBrik</p>
+
 
