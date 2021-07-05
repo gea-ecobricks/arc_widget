@@ -1,28 +1,69 @@
-headerTitle: >-
-  {publisherName} gets a boost from Arc
+#original 
+#headerTitle: >-
+#  {publisherName} gets a boost from Arc
+# -->
+ 
+
+  headerTitle: >-
+  {publisherName} is supporting the sequestration of plastic our of the biosphere using Arc.io and the Brikcoin blockchain.
+
+#orginal 
+#headerSubtitle: >-
+#  Arc is a content exchange and delivery network.
+
 headerSubtitle: >-
-  Arc is a content exchange and delivery network.
-speedValue:
+  Helping stop pollution and accelerate plastic transition.
+
+    
+#original
+#speedValue:
+#  title: >-
+#    {publisherName} is faster with Arc.
+#  desc: >-
+#    Arc loads content from people's devices near you instead of from
+#    slower servers.
+#  adblockDesc: >-
+#    With Arc, content is loaded from people's devices near you instead
+#    of from slower servers.
+    
+    speedValue:
   title: >-
-    {publisherName} is faster with Arc.
+    {publisherName} is content delivery network.
   desc: >-
-    Arc loads content from people's devices near you instead of from
+    Arc is speeding up this site by loading content from people's devices near you instead of from
     slower servers.
-  adblockDesc: >-
-    With Arc, content is loaded from people's devices near you instead
-    of from slower servers.
+   adblockDesc: >-
+    Arc is speeding up this site by loading content from people's devices near you instead of from
+    slower servers.
+    
+    
+#moneyValue:
+#  title: >-
+#    Arc lets websites make money without ads.
+#  desc: >-
+#    Just by being here, you help share this site's content with others to
+#    support it and see fewer ads.
+#  adblockDesc: >-
+#    With Arc, you help share this site's content with others to support
+#    it.
+
 moneyValue:
   title: >-
-    Arc lets websites make money without ads.
+    Arc connects to the Brikcoin manual blockchain
   desc: >-
-    Just by being here, you help share this site's content with others to
-    support it and see fewer ads.
+    Every byte that is transfered over the Arc content network is correlated with plastic that has been authenitcated to have been sequestered out of the biosphere and out of industry through manual ecobricking.
   adblockDesc: >-
     With Arc, you help share this site's content with others to support
     it.
+    
+ 
+    
+    
+    
+    
 safetyValue:
   title: >-
-    You're safe and in control.
+    Your visit powers the Arc network and ecobrick brikchain
   desc: >-
     Arc doesn't impact your data or performance, and you can opt out any
     time.
