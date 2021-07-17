@@ -5,14 +5,15 @@
  
 
   headerTitle: >-
-  {publisherName} is supporting the sequestration of plastic our of the biosphere using Arc.io and the Brikcoin blockchain.
+  {publisherName} is preventing plastic pollution with Arc.
 
 #orginal 
 #headerSubtitle: >-
 #  Arc is a content exchange and delivery network.
 
 headerSubtitle: >-
-  Helping prevent pollution and accelerate plastic transition.
+   Arc is a content delivery network connecting kilobytes to kilograms of secured plastic.
+  
 
     
 #original
@@ -28,16 +29,16 @@ headerSubtitle: >-
     
     speedValue:
   title: >-
-    {publisherName} is content delivery network.
+    {publisherName} is faster with Arc.
   desc: >-
-    Arc is speeding up this site by loading content from people's devices near you instead of from
-    slower servers.
+     Arc loads content from people's devices near you instead of from
+     slower servers.
    adblockDesc: >-
     Arc is speeding up this site by loading content from people's devices near you instead of from
     slower servers.
     
     
-#moneyValue:
+#moneyValue:  ORIGINAL
 #  title: >-
 #    Arc lets websites make money without ads.
 #  desc: >-
@@ -49,27 +50,36 @@ headerSubtitle: >-
 
 moneyValue:
   title: >-
-    Arc connects to the Brikcoin manual blockchain
+    Arc connects to Ecobricks.org
   desc: >-
-    Every byte that is transfered over the Arc content network is correlated with plastic that has been authenitcated to have been sequestered out of the biosphere and out of industry through manual ecobricking.
+    Websites pay per kilobyte to make their websites faster with Arc.  
+    Arc connects these payment to kilograms of ecobrick sequestered plastic authenticated by Ecobricks.org 
   adblockDesc: >-
-    With Arc, you help share this site's content with others to support
-    it.
-    
- 
-    
-    
-    
+    Websites pay per kilobyte to make their websites faster with Arc.  
+    Arc connects these payment to kilograms of ecobrick sequestered plastic authenticated by Ecobricks.org 
     
 safetyValue:
   title: >-
-    Your visit powers the Arc network and ecobrick brikchain
+    Just by being here you're helping prevent plastic pollution.
   desc: >-
     Arc doesn't impact your data or performance, and you can opt out any
     time.
   adblockDesc: >-
     Arc only shares content on Wi-Fi and doesn't impact your data or
     performance. You can disable it any time.
+    
+    
+# Extra text + link to Ecobricks.org/arc (page not yet there!)
+
+plasticValue:
+  title: >-
+    Learn more about Ecobricks
+  desc: >-
+    Learn more about how {publisherName} is supporting the
+    sequestration of plastic out of the biosphere.
+   
+#Same as before Arc texts + links
+    
 getArc: Get Arc
 learnMore: Learn more
 optOut: Opt out
