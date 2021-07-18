@@ -12,7 +12,7 @@
 #  Arc is a content exchange and delivery network.
 
 headerSubtitle: >-
-   Arc is a content delivery network connecting kilobytes to kilograms of secured plastic.
+   Arc is a content delivery network connecting kilobytes of data to kilograms of secured plastic.
   
 
     
@@ -52,18 +52,18 @@ moneyValue:
   title: >-
     Arc connects to Ecobricks.org
   desc: >-
-    Websites pay per kilobyte to make their websites faster with Arc.  
-    Arc connects these payment to kilograms of ecobrick sequestered plastic authenticated by Ecobricks.org 
+    Websites pay per kilobyte to make their websites faster with Arc. Ecobricks.org connects 
+    these payments to kilograms of plastic ecobricked out of the biosphere. 
   adblockDesc: >-
-    Websites pay per kilobyte to make their websites faster with Arc.  
-    Arc connects these payment to kilograms of ecobrick sequestered plastic authenticated by Ecobricks.org 
+    Websites pay per kilobyte to make their websites faster with Arc. Ecobricks.org connects 
+    these payments to kilograms of plastic ecobricked out of the biosphere.
     
 safetyValue:
   title: >-
     Just by being here you're helping prevent plastic pollution.
   desc: >-
-    Arc doesn't impact your data or performance, and you can opt out any
-    time.
+    Arc doesn't impact your data or performance while Ecobricks.org authenticates 
+    every Kg of secured plastic-- though you can opt-out at any time.
   adblockDesc: >-
     Arc only shares content on Wi-Fi and doesn't impact your data or
     performance. You can disable it any time.
