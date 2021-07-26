@@ -1,4 +1,7 @@
-#original 
+#TO VIEW PROPERLY TURN ON SOFT WRAP (Top right corner)
+
+
+#ORIGINAL ARC TEXT 
 #headerTitle: >-
 #  {publisherName} gets a boost from Arc
 # -->
@@ -7,7 +10,7 @@
   headerTitle: >-
   {publisherName} is preventing plastic pollution with Arc.
 
-#orginal 
+#ORIGINAL ARC TEXT
 #headerSubtitle: >-
 #  Arc is a content exchange and delivery network.
 
@@ -16,7 +19,7 @@ headerSubtitle: >-
   
 
     
-#original
+#ORIGINAL ARC TEXT
 #speedValue:
 #  title: >-
 #    {publisherName} is faster with Arc.
@@ -27,20 +30,20 @@ headerSubtitle: >-
 #    With Arc, content is loaded from people's devices near you instead
 #    of from slower servers.
 
-# Paragraph text for FAQ:  The Global Ecobrick Alliance is working with Arc to enable a revolutionary way for websites and webmasters to make the planet a better place.  By connecting our two breathrough technologies, anyone with a website can support both the decentralization of the internet and the removal of plastic from the biosphere.  Arc's peer-to-peer content delivery enables websites and their users to by-pass large centralized servers and speed up connections.  The GEA's manual authentication system allows the valuation and commodification of the removal of plastic from the biosphere by the decentralized global ecobrick movement.  By using Arc on a website, publishers can speed up the best of both worlds-- online and offline.
+# Summary Paragraph text for website  FAQ:  Ecobricks.org and Arc enable a revolutionary opportunity for websites and webmasters to help make the planet a better place online for humans and offline for the oceans.  By connecting our two breakthrough technologies, anyone with a website can support both the decentralization of the internet and the removal of plastic from the biosphere.  Arc's peer-to-peer content delivery network enables websites and their users to by-pass centralized servers, speed up connectivity and transition on from invasive ad-driven revenue.  Meanwhile, Ecobricks.org and our AES plastic offsetting system connect directly to the decentralized global ecobrick movement.  Our underlying manual blockchain allows the valuation of preventing plastic from reaching the biosphere by rewarding ecobrickers doing the hard work.   By using Arc on a website, publishers can speed up the best of both worlds-- online and offline.
     
     speedValue:
   title: >-
     {publisherName} is faster with Arc.
   desc: >-
      Arc loads content from people's devices near you instead of from
-     slower servers.
+     slower and centralized servers.
    adblockDesc: >-
     Arc is speeding up this site by loading content from people's devices near you instead of from
-    slower servers.
+    slower and centralized servers.
     
-    
-#moneyValue:  ORIGINAL
+#ORIGINAL ARC TEXT    
+#moneyValue:
 #  title: >-
 #    Arc lets websites make money without ads.
 #  desc: >-
@@ -60,6 +63,20 @@ moneyValue:
     Websites pay per kilobyte to make their websites faster with Arc. Ecobricks.org connects 
     these payments to kilograms of plastic ecobricked out of the biosphere.
     
+    
+    
+#ORIGINAL ARC TEXT
+#safetyValue:
+#  title: >-
+#    You're safe and in control.
+#  desc: >-
+#    Arc doesn't impact your data or performance, and you can opt out any
+#    time.
+# adblockDesc: >-
+#    Arc only shares content on Wi-Fi and doesn't impact your data or
+#    performance. You can disable it any time.
+    
+        
 safetyValue:
   title: >-
     Just by being here you're helping prevent plastic pollution.
@@ -77,8 +94,7 @@ plasticValue:
   title: >-
     Learn more about Ecobricks
   desc: >-
-    Learn more about how {publisherName} is supporting the
-    sequestration of plastic out of the biosphere.
+    Learn more about how {publisherName} is supporting the oceans.
    
 #Same as before Arc texts + links
     
