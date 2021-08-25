@@ -10,7 +10,7 @@
  
 
   headerTitle: >-
-  {publisherName} is preventing plastic pollution with Arc.
+  {publisherName} is preventing pollution with Arc.
 
 #ORIGINAL ARC TEXT
 #headerSubtitle: >-
@@ -19,11 +19,9 @@
 
 
 headerSubtitle: >-
-   Arc is a content delivery network connecting kilobytes of data to kilograms of secured plastic.
-  
-# Ecobricks.org FAQ page summary sentence:  Ar.io and Ecobricks.org are working together to speed up the internet and keep plastic out of the biosphere.
-
-
+   Arc boosts websites by connecting kilobytes of accelerated data to 
+   kilograms of secured plastic.
+ 
     
 #ORIGINAL ARC TEXT
 #speedValue:
@@ -45,11 +43,10 @@ headerSubtitle: >-
      Arc loads content from people's devices near you instead of from
      slower and centralized servers.
    adblockDesc: >-
-    Arc is speeding up this site by loading content from people's devices near you instead of from
-    slower and centralized servers.
+      Arc loads content from people's devices near you instead of from
+     slower and centralized servers.
     
-# Paragraph on Arc for FAQ
-# Arc is a content delivery network that distributes data over a decentralized network of web page visitors.  Arc is a two-sided marketplace. On one side of the market, websites buy a fast, low-cost peer-to-peer CDN. On the other side, websites make money by contributing bandwidth to the peer-to-peer CDN. Arc's widget provides access to both sides.  Arc turns bandwidth into dollars by uniting browsers into a distributed content delivery network that we rent. Think screaming-fast BitTorrent for every website that's seamless and native to the web. Websites pay Arc to make their sites faster by serving their static content (images, videos, JS, CSS, etc) from Arc's global, distributed network of browsers instead of from slower, more expensive, centralized servers.
+
 
 #ORIGINAL ARC TEXT    
 #moneyValue:
@@ -66,15 +63,12 @@ moneyValue:
   title: >-
     Arc connects to Ecobricks.org
   desc: >-
-    Websites pay per kilobyte to make their websites faster with Arc. Ecobricks.org connects 
-    these payments to kilograms of plastic ecobricked out of the biosphere. 
+    Websites pay Arc by kilobyte to be faster. Ecobricks.org connects 
+    these payments to kilograms of sequestered plastic. 
   adblockDesc: >-
-    Websites pay per kilobyte to make their websites faster with Arc. Ecobricks.org connects 
-    these payments to kilograms of plastic ecobricked out of the biosphere.
+    Websites pay Arc by kilobyte to be faster. Ecobricks.org connects 
+    these payments to kilograms of sequestered plastic. 
     
- # Summary Paragraph text for website  FAQ:  Ecobricks.org and Arc enable a revolutionary opportunity for websites and webmasters to help make the planet a better place online for humans and offline for the oceans.  By connecting our two breakthrough technologies, anyone with a website can support both the decentralization of the internet and the removal of plastic from the biosphere.  Arc's peer-to-peer content delivery network enables websites and their users to by-pass centralized servers, speed up connectivity and transition on from invasive ad-driven revenue.  Meanwhile, Ecobricks.org and our AES plastic offsetting system connect directly to the decentralized global ecobrick movement.  Our underlying manual blockchain allows the valuation of preventing plastic from reaching the biosphere by rewarding ecobrickers doing the hard work.   By using Arc on a website, publishers can speed up the best of both worlds-- online and offline.   
-
- 
  
  
 #ORIGINAL ARC TEXT
@@ -92,19 +86,14 @@ moneyValue:
         
 safetyValue:
   title: >-
-    Just by being here you're helping prevent plastic pollution.
+    Just by being here you're preventing pollution.
   desc: >-
-    Arc doesn't impact your data or performance. Meanwhile Ecobricks.org certifies 
-    every Kg of secured plastic. But you're able to opt-out at any time.
+    Arc doesn't impact your browsing and Ecobricks.org certifies 
+    every Kg of plastic. And can opt-out at any time.
   adblockDesc: >-
     Arc only shares content on Wi-Fi and doesn't impact your data or
     performance. You can disable it any time.
-    
- # Paragraph on Arc for FAQ
-# By browsing a web page with the Arc + Ecobricks.org widget installed your extra bandwidth is used to help localize digital content for others viewing the same information.  Instead of connecting to content on a server on the other side of the planet, the content can be served by the computer nearest you!  This saves time and energy and is valuable service that websites pay for.  By directing the service payments of the CDN clients through the Ecobricks.org manual blockchain, dollars, kilobytes and kilograms of plastic can directly correlated.  Your visit to arc websites results in AES plastic offset credits purchased and the valuzation of the removal of plastic from the biosphere by ecobrickers around the world.
-
-
-    
+   
     
 # Extra text + link to Ecobricks.org/arc (page not yet there!)
 
@@ -122,14 +111,13 @@ optOut: Opt out
 optIn: Opt in to Arc
 welcomeToArc: Welcome to Arc
 optOutConfirmation: You're now opted out 😢
-enableArc: Enable Arc and support {publisherName}
+enableArc: Enable Arc on {publisherName} and support ecobricking
 arcGoal: >-
-  At Arc, we endeavor to replace online ads. We want to improve your experience
-  online and preserve your privacy. You can read more about how Arc does this
+  At Arc, we endeavor to make the planet greener and replace online ads. We want to improve your experience online and preserve your privacy. You can read more about how Arc does this
 here: here
 optInLeadInMessage: >-
-  You previously elected to opt out of Arc. If you'd like to see fewer ads and
-  support your favorite websites, you can opt back into Arc below. You can, of
+  You previously elected to opt out of Arc. If you'd like to
+  help prevent plastic pollution, you can opt back into Arc below. You can, of
   course, always elect to opt back out of Arc later.
 optOutLeadInMessage: >-
   If you elect to opt out of Arc, websites may show you more ads to recoup lost
