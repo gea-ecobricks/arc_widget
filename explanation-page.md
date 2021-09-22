@@ -13,6 +13,7 @@ Ecobricks.org is an Earth Enterprise focused on securing plastic out of the bios
 
 <a href="http://ecobricks.org/ecobricks">Learn more about Ecobricks</a>
 <a href="http://ecobricks.org/aes">Learn more about AES Plastic Offsetting</a>
+<a href="http://ecobricks.org/faqs#arc">Learn more Arc & AES</a>
 
 <h3>Green Popper BETA</h3>
 
@@ -24,6 +25,10 @@ Currently, the green popper is available only by request and manual configuation
 
 <a href="http://ecobricks.org/contact">Request usage of the Green Popper</a>
 <a href="http://ecobricks.org/contact">Get Normal Arc for your Site</a>
+<br><br>
+
+
+
 
 
 
