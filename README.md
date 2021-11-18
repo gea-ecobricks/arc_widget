@@ -1,7 +1,8 @@
 <h1>Global Ecobrick Alliance Custom Arc Widget</h1>
 
 The Global Ecobrick Alliance is working with Arc.io to combine technologies.  By merging their decentalized CDN with our Brikcoin blockchain, we'll be able to offer enterprises the ability to provide an ecological and internet service through their website.
-<h2>Goals</h2>
+
+<h2>Goals of Collab</h2>
 
 <p>1. clarify what arc + plastic offsetting is and what arc + offsetting  does for the planet</p>
 <p>2. directly tie how arc, and users with arc on ecobricks.org, helps reduce plastic usage  secure plastic out of the biosphere.
